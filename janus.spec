@@ -4,7 +4,7 @@
 #
 Name     : janus
 Version  : 0.6.2
-Release  : 7
+Release  : 8
 URL      : https://files.pythonhosted.org/packages/fc/8e/92fcb2ff18797959cde050b7c96a713999f73feefde809bfdf18b5901174/janus-0.6.2.tar.gz
 Source0  : https://files.pythonhosted.org/packages/fc/8e/92fcb2ff18797959cde050b7c96a713999f73feefde809bfdf18b5901174/janus-0.6.2.tar.gz
 Summary  : Mixed sync-async queue to interoperate between asyncio tasks and classic threads
